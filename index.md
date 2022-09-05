@@ -14,7 +14,6 @@
 
 * Catch up on the [news](https://apnews.com) 📰
 * **Do some chores**
-* Read a [random Wikipedia article](https://en.wikipedia.org/wiki/Special:Random)...
 * Practice a new language on [Duolingo](https://duolingo.com) 🇩🇪🇫🇷🇪🇸
 * Draw something ✍️
 * Write something!
@@ -42,18 +41,9 @@ What are your feelings on that?
 * Get some cheap, used books at [AbeBooks](https://abebooks.com), your local bookstore, or a yard sale
 * Track your reading with [Goodreads](https://goodreads.com), and get recommendations!
 
-Some good books to get you started:
-
-* *The Wisdom of Insecurity* by Alan Watts
-* *The Autobiography of Malcolm X* by Malcolm X
-* *The Girl with the Dragon Tattoo* by Stieg Larsson
-* *Roadside Picnic* by Arkady and Boris Strugatsky
-* *The Hunger Games* by Suzanne Collins
-
 It is helpful to always have a book on you, or have an ebook on your phone.
 I find that the best types of books for phone reading are those that can be
 read in short bursts, while remaining memorable.
-Try *Gangster Redemption* by Larry Lawton or *Girl, Interrupted* by Susanna Kaysen.
 
 ### Code Something 💻
 
